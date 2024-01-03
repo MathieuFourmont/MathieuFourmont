@@ -26,9 +26,9 @@ Hence, during this journey, I learned C and C++ languages, as you can check with
 
 ## 🌱 Current learning
 
-[![mmaxime-'s 42 stats](https://badge.mediaplus.ma/black/mmaxime-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+![mmaxime-'s 42 stats](https://badge.mediaplus.ma/black/mmaxime-?1337Badge=off&UM6P=off)
 
-![tryhackme stats](https://raw.githubusercontent.com/MathieuFourmont/MathieuFourmont/master/assets/thm_propic.png)
+[![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Fremish.png)](https://tryhackme.com/p/Fremish)
 
 
 
