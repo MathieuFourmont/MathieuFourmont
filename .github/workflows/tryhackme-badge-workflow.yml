@@ -24,7 +24,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - uses: ./
         with:
-          username: "MathieuFourmont"
+          username: "Fremish"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
